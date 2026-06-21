@@ -10,3 +10,4 @@
 - **Cursor:** WinOS7
 - **Boot Screen:** Linux Text
 - **Wallpaper Manager:** Smart Video Wallpaper Reborn
+- **Font:** Noto Sans
