@@ -11,4 +11,4 @@
 - **Boot Screen:** Linux Text
 - **Wallpaper Manager:** Smart Video Wallpaper Reborn
 - **Font:** Noto Sans
-- **terminal Font:** JetBrainsMono Nerd Font
+- **Terminal Font:** JetBrainsMono Nerd Font
